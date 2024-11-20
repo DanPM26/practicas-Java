@@ -29,8 +29,5 @@ public class Matrices {
         }
         System.out.println("Suma diagonal de la matriz:" + sumaDiagonal);
 
-
-
-
     }
 }
